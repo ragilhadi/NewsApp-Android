@@ -6,4 +6,9 @@
     <color name="black">#191819</color>
     <color name="white">#f7f6f9</color>
     <color name="darkGrey">#D8D8D8</color>
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
 </resources>

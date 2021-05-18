@@ -44,8 +44,9 @@
             android:layout_width="45dp"
             android:layout_height="45dp"
             android:paddingRight="8dp"
+
             android:drawableRight="@drawable/ic_baseline_search_24"
-            android:background="@drawable/black_background"/>
+            android:background="@drawable/button_style"/>
 
 
     </LinearLayout>
