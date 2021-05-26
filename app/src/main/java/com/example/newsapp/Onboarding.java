@@ -69,9 +69,9 @@ public class Onboarding extends AppCompatActivity {
         // fill list screen
 
         final List<ScreenItem> mList = new ArrayList<>();
-        mList.add(new ScreenItem("Read News Easily","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",R.drawable.img1));
-        mList.add(new ScreenItem("Explore News","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",R.drawable.img2));
-        mList.add(new ScreenItem("News Around the World","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",R.drawable.img3));
+        mList.add(new ScreenItem("Read News Easily","Newsdeck comes with an easy and simple user-interface that will make you have a great experience in reading news everywhere and anytime you want.",R.drawable.img1));
+        mList.add(new ScreenItem("Explore News","Newsdeck let you read news not only from one source, but multiple sources of all the news that you want. With Newsdeck, you will be updated with every news from every platform that exists.",R.drawable.img2));
+        mList.add(new ScreenItem("News Around the World","Newsdeck provides news from all around the world without boundary. You can easily read news with NewsDeck and know what happens in place outside your country and even outside your continent.",R.drawable.img3));
 
         // setup viewpager
         screenPager =findViewById(R.id.screen_viewpager);
